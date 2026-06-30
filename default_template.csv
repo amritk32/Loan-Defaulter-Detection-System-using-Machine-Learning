@@ -1,0 +1,2 @@
+loan_amnt,term,int_rate,grade,sub_grade,emp_length,home_ownership,annual_inc,verification_status,purpose,dti,delinq_2yrs,inq_last_6mths,mths_since_last_delinq,mths_since_last_record,open_acc,pub_rec,revol_bal,revol_util,total_acc,initial_list_status,collections_12_mths_ex_med,policy_code,acc_now_delinq,tot_coll_amt,tot_cur_bal,earliest_cr_line_year
+3600, 36 months,18.25,D,D2,9.0,MORTGAGE,43000.0,Not Verified,medical,17.22,1.0,1.0,22.0,,9.0,0.0,11397,85.7,25.0,f,0.0,1,0.0,450.0,49930.0,1997.0
