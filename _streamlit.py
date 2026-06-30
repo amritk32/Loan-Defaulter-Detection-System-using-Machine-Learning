@@ -10,7 +10,7 @@ st.set_page_config(page_title="Loan Default Prediction", layout="wide")
 st.title("🏦 Loan Defaulter Detection System")
 st.markdown("---")
 
-API_HOST = "http://api:8000"
+API_HOST = "https://api-w9tz.onrender.com"
 PREDICT_ENDPOINT = f"{API_HOST}/predict"
 
 
