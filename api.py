@@ -4,7 +4,7 @@ import joblib
 import numpy as np
 from _pydantic import LoanApplication
 
-
+ 
 class PredictionRequest(LoanApplication):
     selected_threshold: float = 0.5
 
