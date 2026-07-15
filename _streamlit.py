@@ -6,7 +6,7 @@ from urllib.request import Request, urlopen
 from urllib.parse import urljoin
 
 st.set_page_config(page_title="Loan Default Prediction", layout="wide")
- 
+  
 st.title("🏦 Loan Defaulter Detection System")
 st.markdown("---")
 
